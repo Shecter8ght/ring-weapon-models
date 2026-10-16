@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-16",
+  "software": {
+    "blender": "5.2.2",
+    "ucupaint": "2.4.9"
+  },
+  "models": [
+    {
+      "slug": "glock17",
+      "name": "Glock 17 Gen5",
+      "version": "v7, покраска владельца",
+      "archive": "glock17_2026-10-16.zip",
+      "bytes": 137628482,
+      "sha256": "6ec23e998003fb0ed062dc1629b0613fdb5f25cc2ffae7036eaedda4a8d9e77c",
+      "download": "https://github.com/Shecter8ght/ring-weapon-models/releases/download/2026-10-16/glock17_2026-10-16.zip",
+      "main": "models/Glock17_Gen5_итог_v7.blend",
+      "blend_files": 4,
+      "files": 34,
+      "preview": "previews/glock17.png",
+      "notes": "Итоговая модель v7 с материалами, редактируемая покраска UCUPaint и отдельный магазин. Магазин использует простые материалы, как в исходном наборе."
+    },
+    {
+      "slug": "makarov_pm",
+      "name": "Пистолет Макарова / КОРС-9",
+      "version": "геометрия v11; 20% v04, 100/60% v02",
+      "archive": "makarov_pm_2026-10-16.zip",
+      "bytes": 817818382,
+      "sha256": "21f9e492a1d02c62476b4c10669c2003ddaee876dfe1715d5175133469ea515c",
+      "download": "https://github.com/Shecter8ght/ring-weapon-models/releases/download/2026-10-16/makarov_pm_2026-10-16.zip",
+      "main": "models/PM_Textures_60_v02.blend",
+      "blend_files": 7,
+      "files": 99,
+      "preview": "previews/makarov_pm.png",
+      "notes": "Три состояния 100/60/20%. Сборки содержат коллиматор ЗОРИН К-1 и крепление. Отдельно приложены пустой и снаряжённый магазины v02, патрон и глушитель в состоянии 60%."
+    },
+    {
+      "slug": "veras54",
+      "name": "ВЕРАС-54 и обвесы",
+      "version": "100% v11; 60/20% v12; актуальные обвесы",
+      "archive": "veras54_2026-10-16.zip",
+      "bytes": 1115042918,
+      "sha256": "6e302d61db68b6ae21e0a33b88bb7a78ddbc5de399315ed5741aa19958a612f0",
+      "download": "https://github.com/Shecter8ght/ring-weapon-models/releases/download/2026-10-16/veras54_2026-10-16.zip",
+      "main": "models/rifle/VERAS54_Only_State060_Used40_v12.blend",
+      "blend_files": 21,
+      "files": 352,
+      "preview": "previews/veras54.png",
+      "notes": "Автомат в трёх состояниях 100/60/20%. Отдельные модели: ВАРН V1, ВАРН V2, ЛУМАР H1, магазин, глушитель и пламягаситель, также в трёх состояниях. Это исходники с нативными материалами UCUPaint."
+    },
+    {
+      "slug": "grenade",
+      "name": "Граната Mk II",
+      "version": "v10b Task2",
+      "archive": "grenade_2026-10-16.zip",
+      "bytes": 1049542998,
+      "sha256": "c1354dff15f1985aec9260925e37a0328549260c215f105aa8ef6f694b75b470",
+      "download": "https://github.com/Shecter8ght/ring-weapon-models/releases/download/2026-10-16/grenade_2026-10-16.zip",
+      "main": "models/Grenade_MkII_Studio_v10b_Task2.blend",
+      "blend_files": 1,
+      "files": 50,
+      "preview": "previews/grenade.png",
+      "notes": "Принятая v10b с производственными фактурами и загрязнениями. Выбрана владельцем для этой публикации 16.10.2026. Более новая проверочная v11 в комплект не включена."
+    },
+    {
+      "slug": "flare_claude",
+      "name": "Ракетница Claude",
+      "version": "v02, UCUPaint worn_v01",
+      "archive": "flare_claude_2026-10-16.zip",
+      "bytes": 33217117,
+      "sha256": "19268c8b10a24d25589456f27c35365cc984f9f56df357e0d19b279d66ae03b3",
+      "download": "https://github.com/Shecter8ght/ring-weapon-models/releases/download/2026-10-16/flare_claude_2026-10-16.zip",
+      "main": "models/FlareGun_Claude_v02_ucupaint_worn_v01.blend",
+      "blend_files": 1,
+      "files": 21,
+      "preview": "previews/flare_claude.png",
+      "notes": "Последняя текстурированная ракетница с красным и зелёным патронами. Владелец прямо выбрал эту отделку для публикации 16.10.2026."
+    },
+    {
+      "slug": "flare_codex",
+      "name": "Ракетница Codex",
+      "version": "UCUPaint worn_v03",
+      "archive": "flare_codex_2026-10-16.zip",
+      "bytes": 20001777,
+      "sha256": "1a42d025761a8704e76708957eca0e1fd3ce7488f4a7b72c4569d96ed66d27b7",
+      "download": "https://github.com/Shecter8ght/ring-weapon-models/releases/download/2026-10-16/flare_codex_2026-10-16.zip",
+      "main": "models/flare_pistol_codex_ucupaint_worn_v03.blend",
+      "blend_files": 1,
+      "files": 17,
+      "preview": "previews/flare_codex.png",
+      "notes": "Актуальный high-poly с красным и зелёным патронами, управлением переламыванием, курком и спуском. Рендеры из game_codex/previews относятся к поздним исправлениям пазов и бойка; кадры с руками не включены."
+    },
+    {
+      "slug": "mosin_pu",
+      "name": "Мосин 1891/30 ПУ",
+      "version": "форма v06/v01, текстуры 20% v01",
+      "archive": "mosin_pu_2026-10-16.zip",
+      "bytes": 270363574,
+      "sha256": "9b8c078fd1b38c16e4067c1b20589bef70068fc86c644a671a7cfbc9fa270ea1",
+      "download": "https://github.com/Shecter8ght/ring-weapon-models/releases/download/2026-10-16/mosin_pu_2026-10-16.zip",
+      "main": "models/00_Сборка/Mosin_9130PU_Assembly_tex20_v01.blend",
+      "blend_files": 6,
+      "files": 59,
+      "preview": "previews/mosin_pu.png",
+      "notes": "Текстурированная сборка и пять отдельных моделей: винтовка, прицел ПУ, крепление, патрон 7,62×54R и обойма. Одно состояние 20%. Владелец прямо выбрал последние текстуры для публикации 16.10.2026."
+    }
+  ]
+}
